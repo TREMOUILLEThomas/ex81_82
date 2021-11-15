@@ -1,0 +1,1 @@
+def miroir miroir(t)
